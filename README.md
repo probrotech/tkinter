@@ -200,3 +200,6 @@ if __name__ == '__main__':
     master.geometry('520x550+125+50')
     master.configure(bg=COLOUR_PRIMARY)
     master.mainloop()
+    
+    
+    #Use should comment the whole code for better understanding
